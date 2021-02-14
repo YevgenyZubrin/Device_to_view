@@ -50,7 +50,7 @@ input[type="radio"].visually-hidden {
   font-family: Gilroy, Arial, sans-serif;
   font-size: 18px;
   line-height: 24px;
-  font-weight: 800;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 4px; }
 
@@ -556,7 +556,8 @@ input[type="radio"].visually-hidden {
 .page-footer__wrapper {
   position: relative;
   display: flex;
-  flex-direction: column; }
+  flex-direction: column; 
+}
 
 .page-footer__wrapper_line {
   margin-right: 150px; }
@@ -590,8 +591,8 @@ input[type="radio"].visually-hidden {
   opacity: 0.3; }
 
 .footer-services__button_margin {
-  margin-right: 30px;
-  margin-left: 30px; }
+  margin-right: 25px;
+  margin-left: 25px; }
 
 .page-footer__social {
   display: flex;
