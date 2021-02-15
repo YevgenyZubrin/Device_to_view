@@ -154,12 +154,13 @@ input[type="radio"].visually-hidden {
 
 .search-form__button {
   cursor: pointer;
-  display: none;
+  /* display: none; */
   height: 100%;
   width: 80px;
   background-color: transparent;
   border: 2px solid #000000;
-  border-bottom: none; }
+  border-bottom: none; 
+}
 
 .search-form__button:hover {
   background-color: #000000;
